@@ -1,3 +1,4 @@
+<!-- This is the header file -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,7 +119,7 @@
                                 <!-- site-branding -->
                                 <div class="site-branding">
                                      <ul class="top-contact text-left">
-                                    <li><a href="tel:010-060-0160"><i class="fa fa-phone"></i> 010-060-0160</a></li>
+                                    <li><a href="tel:1212121212"><i class="fa fa-phone"></i> 1212121212</a></li>
                                     <li><a href="mailTo:info@lehighcommunitypharmacy.com"><i class="fa fa-phone"></i> info@lehighcommunitypharmacy.com</a></li>
                                 </ul>
                                     <a class="home-link" href="index.php" title="Bethlehem" rel="home">
